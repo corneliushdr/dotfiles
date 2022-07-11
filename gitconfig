@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = c.v.heidrich@googlemail.com
+	name = Cornelius Heidrich
